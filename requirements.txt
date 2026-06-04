@@ -1,5 +1,5 @@
 streamlit
-tensorflow==2.16.1numpy
+tensorflow-cpu==2.16.1numpy
 pillow
 scikit-image
 matplotlib
